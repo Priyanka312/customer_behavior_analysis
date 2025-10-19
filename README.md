@@ -27,8 +27,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Priyanka312/custmer_behavior_analysis.git
-   cd custmer_behavior_analysis
+   git clone https://github.com/Priyanka312/customer_behavior_analysis.git
+   cd customer_behavior_analysis
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
