@@ -1,6 +1,8 @@
 # 👨🏻‍💻Customer Behavior Data Analysis Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
+<img width="665" height="611" alt="Customer_behavior" src="https://github.com/user-attachments/assets/d3a80651-4d74-4819-b4a1-b92374351386" />
+
 This project is perfect for:
 - 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
 - 📚 Anyone learning Python, SQL, and Power BI
@@ -19,9 +21,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
+
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Priyanka312/custmer_behavior_analysis.git
    cd custmer_behavior_analysis
