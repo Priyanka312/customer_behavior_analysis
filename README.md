@@ -1,7 +1,7 @@
 # 👨🏻‍💻Customer Behavior Data Analysis Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-<img width="665" height="611" alt="Customer_behavior" src="https://github.com/user-attachments/assets/d3a80651-4d74-4819-b4a1-b92374351386" />
+<img width="765" height="711" alt="Customer_behavior" src="https://github.com/user-attachments/assets/d3a80651-4d74-4819-b4a1-b92374351386" />
 
 This project is perfect for:
 - 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
